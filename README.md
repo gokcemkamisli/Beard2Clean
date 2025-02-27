@@ -21,5 +21,5 @@ Beard2Clean is an image-to-image translation project that automatically removes 
 **Setup Instructions:**
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/<your-username>/Beard2Clean.git
+   git clone https://github.com/gokcemkamisli/Beard2Clean.git
    cd Beard2Clean
