@@ -1,4 +1,30 @@
+# Sanal ortam ve cache dosyaları
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Büyük model dosyaları
+models/*.pth
+models/*.h5
+
+# Datasetler (eğer varsa)
+data/
+dataset/
+*.jpg
+*.png
+*.mp4
+
+# Sistem dosyaları (macOS, Windows)
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook Checkpoint'leri
+.ipynb_checkpoints/
 dataset/
 dataset/
 venv/
 *.pth
+
+
